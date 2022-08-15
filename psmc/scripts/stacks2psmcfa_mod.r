@@ -1,6 +1,7 @@
 # Generating input files for PSMC from tag files and allele files.
 # Tag files and allele files are generated through pstacks (Stacks v1.13).
 # Jan 27, 2015, by Shenglin Liu.
+# Aprl 17, 2022 modified by Kumar
 
 setwd("/nobackup/beegfs/workspace/ks575/Data/Stinkbug/SB_population_data/Euschistus/mapping_new/psmc/data")
 #============parameters============#
